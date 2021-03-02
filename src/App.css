@@ -1,0 +1,25 @@
+.card{
+  display: flex;
+  justify-content: space-between;
+}
+.box{
+  border: 1px solid black;
+  margin: 10px 5px 10px 5px;
+  padding: 10px 5px 10px 5px;
+}
+.text-soft{
+  font-weight: 300;
+}
+.text-bold{
+	font-weight: 600;
+}
+img{
+  height: 50px;
+}
+
+.noshow{
+  display: none;
+}
+.show{
+  display: block;
+}
